@@ -1,0 +1,25 @@
+{
+  "name": "next-ssr",
+  "version": "1.0.0",
+  "description": "Practice using next.js for a SSR app",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyosung11/next-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyosung11/next-ssr/issues"
+  },
+  "homepage": "https://github.com/hyosung11/next-ssr#readme",
+  "dependencies": {
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
